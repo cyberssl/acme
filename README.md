@@ -17,19 +17,6 @@
   <a href="https://github.com/acmesh-official/acme.sh/actions/workflows/Haiku.yml"><img src="https://github.com/acmesh-official/acme.sh/actions/workflows/Haiku.yml/badge.svg" alt="Haiku"></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/acmesh-official/acme.sh/workflows/Shellcheck/badge.svg" alt="Shellcheck">
-  <img src="https://github.com/acmesh-official/acme.sh/workflows/PebbleStrict/badge.svg" alt="PebbleStrict">
-  <img src="https://github.com/acmesh-official/acme.sh/workflows/Build%20DockerHub/badge.svg" alt="DockerHub">
-</p>
-
-<p align="center">
-  <a href="https://opencollective.com/acmesh"><img src="https://opencollective.com/acmesh/all/badge.svg?label=financial+contributors" alt="Financial Contributors on Open Collective"></a>
-  <a href="https://gitter.im/acme-sh/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"><img src="https://badges.gitter.im/acme-sh/Lobby.svg" alt="Join the chat at Gitter"></a>
-  <a href="https://hub.docker.com/r/neilpang/acme.sh" title="Click to view the image on Docker Hub"><img src="https://img.shields.io/docker/stars/neilpang/acme.sh.svg" alt="Docker stars"></a>
-  <a href="https://hub.docker.com/r/neilpang/acme.sh" title="Click to view the image on Docker Hub"><img src="https://img.shields.io/docker/pulls/neilpang/acme.sh.svg" alt="Docker pulls"></a>
-</p>
-
 
 ---
 
@@ -58,25 +45,7 @@
 
 ---
 
-## 🌏 [中文说明](https://github.com/acmesh-official/acme.sh/wiki/%E8%AF%B4%E6%98%8E)
 
----
-
-## 🏆 Who Uses acme.sh?
-- [FreeBSD.org](https://blog.crashed.org/letsencrypt-in-freebsd-org/)
-- [ruby-china.org](https://ruby-china.org/topics/31983)
-- [Proxmox](https://pve.proxmox.com/wiki/Certificate_Management)
-- [pfsense](https://github.com/pfsense/FreeBSD-ports/pull/89)
-- [Loadbalancer.org](https://www.loadbalancer.org/blog/loadbalancer-org-with-lets-encrypt-quick-and-dirty)
-- [discourse.org](https://meta.discourse.org/t/setting-up-lets-encrypt/40709)
-- [Centminmod](https://centminmod.com/letsencrypt-acmetool-https.html)
-- [splynx](https://forum.splynx.com/t/free-ssl-cert-for-splynx-lets-encrypt/297)
-- [opnsense.org](https://github.com/opnsense/plugins/tree/master/security/acme-client/src/opnsense/scripts/OPNsense/AcmeClient)
-- [CentOS Web Panel](https://control-webpanel.com)
-- [lnmp.org](https://lnmp.org/)
-- [more...](https://github.com/acmesh-official/acme.sh/wiki/Blogs-and-tutorials)
-
----
 
 ## 🖥️ Tested OS
 
@@ -115,19 +84,7 @@
 
 ---
 
-## 🏛️ Supported CA
 
-| CA | Status |
-|---|---|
-| [ZeroSSL.com CA](https://github.com/acmesh-official/acme.sh/wiki/ZeroSSL.com-CA) | ⭐ **Default** |
-| Letsencrypt.org CA | ✅ Supported |
-| [SSL.com CA](https://github.com/acmesh-official/acme.sh/wiki/SSL.com-CA) | ✅ Supported |
-| [Google.com Public CA](https://github.com/acmesh-official/acme.sh/wiki/Google-Public-CA) | ✅ Supported |
-| [Actalis.com CA](https://github.com/acmesh-official/acme.sh/wiki/Actalis.com-CA) | ✅ Supported |
-| [Pebble strict Mode](https://github.com/letsencrypt/pebble) | ✅ Supported |
-| Any [RFC8555](https://tools.ietf.org/html/rfc8555)-compliant CA | ✅ Supported |
-
----
 
 ## ⚙️ Supported Modes
 
