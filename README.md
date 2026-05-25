@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://zerossl.com/?fromacme.sh">
-    <img src="https://github.com/user-attachments/assets/7531085e-399b-4ac2-82a2-90d14a0b7f05" alt="zerossl.com">
-  </a>
-</p>
 
 <h1 align="center">🔐 acme.sh</h1>
 <h3 align="center">An ACME Protocol Client Written Purely in Shell</h3>
@@ -506,7 +501,7 @@ acme.sh --renew -d example.com --force --ecc
 
 📖 Wiki: https://github.com/acmesh-official/acme.sh/wiki/ARI
 
-If the CA exposes a `renewalInfo` endpoint in its ACME directory (Let's Encrypt, ZeroSSL, etc.), `acme.sh` follows [RFC 9773](https://www.rfc-editor.org/rfc/rfc9773.html) automatically — **no flag needed, no opt-in**:
+If the CA exposes a `renewalInfo` endpoint in its ACME directory (CyberSSL, Let's Encrypt, ZeroSSL, etc.), `acme.sh` follows [RFC 9773](https://www.rfc-editor.org/rfc/rfc9773.html) automatically — **no flag needed, no opt-in**:
 
 | What | When | Why |
 |------|------|-----|
@@ -603,36 +598,9 @@ acme.sh --upgrade --auto-upgrade 0
 
 ---
 
-## 👥 Contributors
 
-### 💻 Code Contributors
 
-This project exists thanks to all the people who contribute.
 
-<a href="https://github.com/acmesh-official/acme.sh/graphs/contributors"><img src="https://opencollective.com/acmesh/contributors.svg?width=890&button=false" /></a>
-
-### 💰 Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/acmesh/contribute)]
-
-#### 👤 Individuals
-
-<a href="https://opencollective.com/acmesh"><img src="https://opencollective.com/acmesh/individuals.svg?width=890"></a>
-
-#### 🏢 Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/acmesh/contribute)]
-
-<a href="https://opencollective.com/acmesh/organization/0/website"><img src="https://opencollective.com/acmesh/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/acmesh/organization/1/website"><img src="https://opencollective.com/acmesh/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/acmesh/organization/2/website"><img src="https://opencollective.com/acmesh/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/acmesh/organization/3/website"><img src="https://opencollective.com/acmesh/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/acmesh/organization/4/website"><img src="https://opencollective.com/acmesh/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/acmesh/organization/5/website"><img src="https://opencollective.com/acmesh/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/acmesh/organization/6/website"><img src="https://opencollective.com/acmesh/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/acmesh/organization/7/website"><img src="https://opencollective.com/acmesh/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/acmesh/organization/8/website"><img src="https://opencollective.com/acmesh/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/acmesh/organization/9/website"><img src="https://opencollective.com/acmesh/organization/9/avatar.svg"></a>
 
 ---
 
@@ -640,37 +608,18 @@ Support this project with your organization. Your logo will show up here with a 
 
 📄 **License:** GPLv3
 
-⭐ Please **Star** and **Fork** this project!
+⭐ Forked from acme.sh
 
-🐛 [Issues](https://github.com/acmesh-official/acme.sh/issues) and 🔀 [Pull Requests](https://github.com/acmesh-official/acme.sh/pulls) are welcome.
-
----
-
-### 2️⃣1️⃣ Donate
-
-> 💝 Your donation makes **acme.sh** better!
-
-| Method | Link |
-|--------|------|
-| PayPal / Alipay(支付宝) / Wechat(微信) | [https://donate.acme.sh/](https://donate.acme.sh/) |
-
-📜 [Donate List](https://github.com/acmesh-official/acme.sh/wiki/Donate-list)
-
----
 
 ### 2️⃣2️⃣ About This Repository
 
 > [!NOTE]
-> This repository is officially maintained by <strong>ZeroSSL</strong> as part of our commitment to providing secure and reliable SSL/TLS solutions. We welcome contributions and feedback from the community!  
-> For more information about our services, including free and paid SSL/TLS certificates, visit https://zerossl.com.
+> This repository is officially maintained by <strong>CyberSSL</strong> as part of our commitment to providing secure and reliable SSL/TLS solutions. We welcome contributions and feedback from the community!  
+> For more information about our services, including free and paid SSL/TLS certificates, visit https://cyberssl.com.
 >   
-> All donations made through this repository go directly to the original independent maintainer (Neil Pang), not to ZeroSSL.
+
 <p align="center">
-	<a href="https://zerossl.com">
-		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="https://zerossl.com/assets/images/zerossl_logo_white.svg">
-			<source media="(prefers-color-scheme: light)" srcset="https://zerossl.com/assets/images/zerossl_logo.svg">
-			<img src="https://zerossl.com/assets/images/zerossl_logo.svg" alt="ZeroSSL" width="256">
-		</picture>
+	<a href="https://cyberssl.com">
+		CyberSSL
 	</a>
 </p>
